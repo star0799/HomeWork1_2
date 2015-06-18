@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeWork1_2</string>
+    <string name="tvr">紅色</string>
+    <string name="tvg">綠色</string>
+    <string name="tvb">藍色</string>
+    <string name="rvl">red value is  </string>
+    <string name="gvl">green value is  </string>
+    <string name="bvl">blue value is  </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
